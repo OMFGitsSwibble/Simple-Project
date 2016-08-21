@@ -3,7 +3,7 @@
 
 using namespace std;
 
-string message = "Hello World";
+string message = "Hello World, yes.";
 
 int main()
 {
